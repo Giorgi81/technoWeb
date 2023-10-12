@@ -1,0 +1,49 @@
+@keyframes text {
+    from {
+        transform: translate(-500px);
+    }
+
+    to {
+        transform: translate(0px);
+
+    }
+}
+
+@keyframes btn {
+    from {
+        transform: translate(-500px);
+
+
+    }
+
+    to {
+        transform: translate(0px);
+
+
+    }
+}
+
+@keyframes img {
+    from {
+        transform: translate(1000px);
+
+
+    }
+
+    to {
+        transform: translate(0px);
+
+
+    }
+}
+
+@keyframes test {
+    from {
+       transform: rotate(0deg);
+    }
+ 
+    to {
+       transform: rotate(360deg);
+       
+    }
+ }
